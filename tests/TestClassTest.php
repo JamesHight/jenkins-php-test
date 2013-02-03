@@ -1,6 +1,6 @@
 <?php 
 require_once 'PHPUnit/Autoload.php';
-require_once dirname(__FILE__) . '/../TestClass.php';
+require_once dirname(__FILE__) . '/../src/TestClass.php';
 
 class TestClassTest extends PHPUnit_Framework_TestCase {
 
